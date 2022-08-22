@@ -1,6 +1,4 @@
-# TopreTester
-Simple Topre Switch Tester
----
+# Topre Switch Tester
 Non fuctional topre switch tester. Used to test lubing techniques and different domes/mods.
 
 Files
