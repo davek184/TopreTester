@@ -3,13 +3,15 @@ Non fuctional topre switch tester. Used to test lubing techniques and different 
 
 Files
 ---
- * *FR4* - Note should be 1.2mm thick (not default 1.6mm)
+ * *FR4* - Should be 1.2mm thick (not default 1.6mm).  Using [Solder studs](https://www.aliexpress.com/item/3256803132678460.html) to secure m3 screws[todo: include length)
  * *DXF* - Files for lazer and other material cutting (note m3 screws and optionally standoffs should be used)
  * *STL* - 3d print files (note m3 screws and optionally standoffs should be used)
 
 Notes
 ---
-Requires some filing of the plate to ensure a tight but not too tight fit around the topre housing taps. Simple model file or nail file will do just needs a little bit of material removed
+* Requires some filing of the plate to ensure a tight but not too tight fit around the topre housing taps. Simple model file or nail file will do just needs a little bit of material removed
+* [TODO: Something about screws and holding together]
+* [TODO: Something about screw length]
 [TODO: Photo with arrows]
 
 Special thank you for [Cipulot](https://github.com/cipulot) for creating the topre switch footprints.
