@@ -5,8 +5,9 @@ Non fuctional topre switch tester. Used to test lubing techniques and different 
 
 Files
 ---
-FR4 version - Note should be 1.2mm thick (not default 1.6mm)
-3d DXF files - simple dxf files for the 3d printing (note m3 screws and optionally standofs should be used)
+ * *FR4* - Note should be 1.2mm thick (not default 1.6mm)
+ * *DXF* - Files for lazer and other material cutting (note m3 screws and optionally standoffs should be used)
+ * *STL* - 3d print files (note m3 screws and optionally standoffs should be used)
 
 Notes
 ---
