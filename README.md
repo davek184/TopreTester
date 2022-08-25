@@ -4,8 +4,8 @@ Non fuctional Topre/EC 4 switch tester. Used to test lubing techniques and diffe
 Files
 ---
  * *FR4* - Should be 1.2mm thick (not default 1.6mm).  
- * *DXF* - Files for lazer and other material cutting (note m3 screws and optionally standoffs should be used)
- * *STL* - 3d print files (note m3 screws and optionally standoffs should be used)
+ * *Dxf* - Files for lazer and other material cutting (note m3 screws and optionally standoffs should be used)
+ * *Stl/Step* - 3d print files (note m3 screws and optionally standoffs should be used)
  
 Screws
 ---
