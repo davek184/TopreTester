@@ -5,7 +5,7 @@ Files
 ---
  * *FR4* - Should be 1.2mm thick (not default 1.6mm).  
  * *Dxf* - Files for lazer and other material cutting (note m3 screws and optionally standoffs should be used)
- * *Stl/Step* - 3d print files (note m3 screws and optionally standoffs should be used)
+ * *Step* - 3d print files (note size is 26mm x 97.75mm x 1.2mm)
  
 Screws
 ---
