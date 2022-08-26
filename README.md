@@ -16,6 +16,7 @@ Screws
 Notes
 ---
 * Requires some filing of the plate to ensure a tight but not too tight fit around the topre housing taps. Simple model file or nail file will do just needs a little bit of material removed
-* For FR4 Version break apart plate and PCB sections by hand (use sandpaper to clean up edges)
+* FR4 version break apart plate and PCB sections by hand (optionally use sandpaper to clean up edges)
+* Add rubber sickon feet to prevent slipping
 
 Special thank you for [Cipulot](https://github.com/cipulot) for creating the topre switch footprints.
