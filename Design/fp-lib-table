@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Topre")(type "KiCad")(uri "C:/Users/dave/Documents/KiCad/6.0/footprints")(options "")(descr "Topre"))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty")(options "")(descr ""))
+)
