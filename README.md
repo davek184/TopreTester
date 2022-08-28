@@ -4,8 +4,8 @@ Non fuctional Topre/EC 4 switch tester
 Files
 ---
  * *[FR4](/FR4)* - 1.2mm thick (NOT typical default of 1.6mm)
- * *[Dxf](/Dxf)* - Lazer cutting
- * *[Step](/Step)* - 3d print
+ * *[Dxf](/Dxf)*
+ * *[Step](/Step)*
  
 Screws
 ---
