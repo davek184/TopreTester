@@ -5,7 +5,7 @@ Files
 ---
  * *[FR4](/FR4)* - 1.2mm thick (NOT typical default of 1.6mm)
  * *[Dxf](/Dxf)* - Lazer cutting
- * *[Step](/Step)* - 3d print (Note size is 26mm x 97.75mm x 1.2mm)
+ * *[Step](/Step)* - 3d print
  
 Screws
 ---
@@ -15,6 +15,7 @@ Screws
 
 Notes
 ---
+* Size: 26mm x 97.75mm x 1.2mm
 * Requires some filing of the plate to ensure a tight but not too tight fit around the topre housing taps. Simple model file or nail file will do just needs a little bit of material removed
 * FR4 version break apart plate and PCB sections by hand (optionally use sandpaper to clean up edges)
 * Add rubber sickon feet to prevent slipping
